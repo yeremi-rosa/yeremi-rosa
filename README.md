@@ -1,34 +1,27 @@
 # Hi, I'm Yeremi Rosa
 
-I'm a Computer Science student focused on cloud computing, cybersecurity, and practical systems work.
+I'm a Computer Science student building practical skills in **AWS cloud**, **cybersecurity**, **Linux**, and **SOC workflows**.
 
-Right now, I'm building a strong foundation in AWS cloud concepts while developing hands-on skills in Linux, networking, security operations, and software development.
+My current focus is learning cloud fundamentals the right way: understanding the concepts, practicing the tools, documenting the process, and turning each lesson into a small public artifact.
 
 ## Current Focus
 
-- AWS cloud fundamentals: global infrastructure, compute, storage, networking, IAM, billing, and the Well-Architected Framework
-- Cybersecurity foundations: SOC workflows, SIEM concepts, vulnerability management, and incident response
-- Linux and IT support fundamentals
-- Building small, documented projects that prove what I learn
+- **AWS Cloud:** global infrastructure, IAM, EC2, S3, VPC, CloudWatch, billing, and the Well-Architected Framework
+- **Cybersecurity:** SOC fundamentals, SIEM concepts, vulnerability management, logs, alerts, and incident response basics
+- **Systems:** Linux, networking fundamentals, troubleshooting, and command line workflows
+- **Development:** Git, GitHub, documentation, Python basics, and web technologies
 
 ## What I'm Building Toward
 
-I'm working toward roles at the intersection of cloud, cybersecurity, and technical support — where I can troubleshoot systems, document clearly, improve security, and keep learning through real projects.
+I'm working toward cloud, cybersecurity, and technical support roles where I can troubleshoot systems, document clearly, improve security, and keep learning through hands-on work.
 
-## Skills I'm Practicing
-
-- **Cloud:** AWS fundamentals, shared responsibility model, high availability, disaster recovery, cost awareness
-- **Security:** SOC analysis basics, logs, SIEM concepts, vulnerability scanning, web security fundamentals
-- **Systems:** Linux, networking basics, troubleshooting, command line workflows
-- **Development:** Git, GitHub, documentation, Python basics, web technologies
-
-## Featured Work
+## Featured Projects
 
 This profile is being built step by step. Upcoming public repositories will include:
 
-- `aws-cloud-practitioner-labs` — notes and labs from my AWS cloud learning path
-- `soc-homelab-notes` — cybersecurity lab notes, alerts, logs, and incident response practice
-- `nmap-report-generator` — a small Python tool for turning Nmap scan data into readable reports
+- [`aws-cloud-practitioner-labs`](https://github.com/yeremi-rosa/aws-cloud-practitioner-labs) — AWS notes and labs from my cloud learning path
+- `soc-homelab-notes` — cybersecurity lab notes, alert triage, logs, and incident response practice
+- `nmap-report-generator` — a small Python tool for converting Nmap scan data into readable reports
 - `web-security-review-template` — safe, authorized web application security review templates
 - `rangersbakery-case-study` — a sanitized case study of a real business website project
 
